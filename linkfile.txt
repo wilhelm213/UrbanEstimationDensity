@@ -1,3 +1,4 @@
-https://drive.google.com/drive/folders/1J41-9uGsi1LG3pvLDrzC_WDT0LAAcVhK?usp=sharing 
+datanya yang sudah dibagi: https://drive.google.com/drive/folders/1J41-9uGsi1LG3pvLDrzC_WDT0LAAcVhK?usp=sharing 
 
+show datanya: https://code.earthengine.google.com/56240bd0a605a41e4d0fe9de446484d2
 Link File datanya, 3 file masing-masing 1.2 GB lebih
